@@ -16,7 +16,62 @@
     "supplier": null,
     "topology": {
         "computes": [],
-        "drawings": [],
+        "drawings": [
+            {
+                "drawing_id": "50c5eaaf-df8f-42da-bd05-e05559932010",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"24\" width=\"40\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">0/19</text></svg>",
+                "x": -87,
+                "y": 225,
+                "z": 2
+            },
+            {
+                "drawing_id": "0bb3b9f2-1e7d-4a99-ac82-cbfaeb1697c1",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"24\" width=\"40\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">0/19</text></svg>",
+                "x": -87,
+                "y": 171,
+                "z": 2
+            },
+            {
+                "drawing_id": "57369b14-f4ab-4ed4-967d-b3188313afc1",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"24\" width=\"40\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">0/20</text></svg>",
+                "x": -28,
+                "y": 172,
+                "z": 2
+            },
+            {
+                "drawing_id": "2c0da5f9-b763-4dc8-91fb-7d7bb64a4cce",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"24\" width=\"40\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">0/19</text></svg>",
+                "x": 198,
+                "y": 179,
+                "z": 2
+            },
+            {
+                "drawing_id": "3f9b86bc-bead-42fe-962b-95e5dea0d3b6",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"24\" width=\"40\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">0/20</text></svg>",
+                "x": -23,
+                "y": 224,
+                "z": 2
+            },
+            {
+                "drawing_id": "b8c17fe9-a1f2-45af-b3c6-d861853608fe",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"24\" width=\"40\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">0/20</text></svg>",
+                "x": 267,
+                "y": 181,
+                "z": 2
+            }
+        ],
         "links": [
             {
                 "filters": {},
